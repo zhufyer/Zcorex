@@ -17,13 +17,19 @@
 
 ---
 
-## Dual-Layer Project Status Bar
+## Project Overview & KPI Summary
 
 <p align="center">
-  <img src="./assets/status-bar.svg" alt="Zcorex Dual-Layer WPT Status Bar" width="100%" />
+  <img src="./assets/status-kpi.svg" alt="Zcorex Summary KPI Cards" width="100%" />
 </p>
 
-### Layer 1 — Global Standing vs Official `wpt.fyi` (`265` Suites, Nov 23 2026)
+---
+
+## Layer 1 — Global Standing vs Official `wpt.fyi` (`265` Suites)
+
+<p align="center">
+  <img src="./assets/status-global.svg" alt="Zcorex Layer 1 Global WPT Standing" width="100%" />
+</p>
 
 | Scope | Chrome 160 | Edge 160 | Firefox 163 | Safari 257 Preview | Zcorex Measured | % of `wpt.fyi` Total |
 |---|---:|---:|---:|---:|---:|---:|
@@ -34,7 +40,13 @@
 | **`html/`** *(measured: `dom` + `syntax`)* | 157,728 / 161,653 (`97.6%`) | 157,681 / 161,646 (`97.5%`) | 152,243 / 161,551 (`94.2%`) | 152,214 / 161,490 (`94.3%`) | **66,000** / 161,653 | **`40.83%`** |
 | **`css/`** *(measured: 6 sub-suites)* | 216,486 / 226,666 (`95.5%`) | 215,598 / 226,666 (`95.1%`) | 196,387 / 225,253 (`87.2%`) | 205,309 / 224,994 (`91.3%`) | **11,617** / 226,666 | **`5.13%`** |
 
-### Layer 2 — Evaluated Core Suites & Sub-Suites (`20` Non-Overlapping Sets, `4,147` Files)
+---
+
+## Layer 2 — Evaluated Core Suites & Sub-Suites (`20` Sets, `4,147` Files)
+
+<p align="center">
+  <img src="./assets/status-core.svg" alt="Zcorex Layer 2 Evaluated Core Suites Breakdown" width="100%" />
+</p>
 
 | Suite / Sub-Suite | Files Passed | File Rate | Subtests Passed | Subtest Rate | Highlights & Notes |
 |---|---:|---:|---:|---:|---|

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="476" viewBox="0 0 820 476" role="img" aria-label="Layer 1 Global WPT Standing">
+  <defs>
+    <linearGradient id="gGlobal" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ea580c"/><stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+    <linearGradient id="gCore" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7"/><stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="gGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#16a34a"/><stop offset="100%" stop-color="#4ade80"/>
+    </linearGradient>
+    <linearGradient id="gBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0891b2"/><stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="gAmber" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d97706"/><stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="820" height="476" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+  <!-- Section Header -->
+  <rect x="0" y="0" width="820" height="56" rx="16" fill="#161b22"/>
+  <rect x="0" y="40" width="820" height="16" fill="#161b22"/>
+  <line x1="0" y1="56" x2="820" y2="56" stroke="#30363d" stroke-width="2"/>
+  <text x="28" y="35" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="800" fill="#38bdf8">LAYER 1 · GLOBAL STANDING VS wpt.fyi (265 SUITES)</text>
+  <text x="792" y="35" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="700" fill="#cbd5e1">Ref: Nov 23, 2026</text>
+
+  <!-- Row 1: All 265 Suites (Thick 28px bar) -->
+  <text x="28" y="92" font-family="ui-sans-serif, -apple-system, sans-serif" font-size="18" font-weight="800" fill="#ffffff">All 265 WPT Suites</text>
+  <text x="792" y="92" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="800" fill="#fb923c">5.25% · 120,924 / 2,302,238</text>
+  <rect x="28" y="102" width="764" height="28" rx="14" fill="#1f2937" stroke="#374151" stroke-width="1.5"/>
+  <rect x="28" y="102" width="42" height="28" rx="14" fill="url(#gGlobal)"/>
+  <line x1="774" y1="98" x2="774" y2="134" stroke="#94a3b8" stroke-width="2.5" stroke-dasharray="4,2"/>
+  <text x="28" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="600" fill="#cbd5e1">Browsers: Chrome 97.7% · Edge 97.6% · Firefox 95.7% · Safari 95.2%</text>
+
+  <!-- Row 2: Core Scope ex-encoding -->
+  <text x="28" y="190" font-family="ui-sans-serif, -apple-system, sans-serif" font-size="18" font-weight="800" fill="#ffffff">Core Scope (ex-encoding)</text>
+  <text x="792" y="190" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="800" fill="#38bdf8">17.87% · 120,924 / 676,549</text>
+  <rect x="28" y="200" width="764" height="28" rx="14" fill="#1f2937" stroke="#374151" stroke-width="1.5"/>
+  <rect x="28" y="200" width="137" height="28" rx="14" fill="url(#gCore)"/>
+  <text x="778" y="219" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13.5" font-weight="700" fill="#cbd5e1">Chrome ref: 96.3%</text>
+
+  <!-- Row 3: dom/ -->
+  <text x="28" y="266" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17.5" font-weight="800" fill="#ffffff">dom/ (Full Suite)</text>
+  <text x="792" y="266" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="800" fill="#4ade80">56.25% · 37,788 / 67,182</text>
+  <rect x="28" y="276" width="764" height="28" rx="14" fill="#1f2937" stroke="#374151" stroke-width="1.5"/>
+  <rect x="28" y="276" width="430" height="28" rx="14" fill="url(#gGreen)"/>
+  <text x="778" y="295" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13.5" font-weight="700" fill="#cbd5e1">Chrome ref: 99.4%</text>
+
+  <!-- Row 4: html/ -->
+  <text x="28" y="342" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17.5" font-weight="800" fill="#ffffff">html/ (dom + syntax)</text>
+  <text x="792" y="342" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="800" fill="#60a5fa">40.83% · 66,000 / 161,653</text>
+  <rect x="28" y="352" width="764" height="28" rx="14" fill="#1f2937" stroke="#374151" stroke-width="1.5"/>
+  <rect x="28" y="352" width="312" height="28" rx="14" fill="url(#gBlue)"/>
+  <text x="778" y="371" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13.5" font-weight="700" fill="#cbd5e1">Chrome ref: 97.6%</text>
+
+  <!-- Row 5: css/ -->
+  <text x="28" y="418" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17.5" font-weight="800" fill="#ffffff">css/ (6 Sub-Suites)</text>
+  <text x="792" y="418" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="800" fill="#fbbf24">5.13% · 11,617 / 226,666</text>
+  <rect x="28" y="428" width="764" height="28" rx="14" fill="#1f2937" stroke="#374151" stroke-width="1.5"/>
+  <rect x="28" y="428" width="40" height="28" rx="14" fill="url(#gAmber)"/>
+  <text x="778" y="447" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13.5" font-weight="700" fill="#cbd5e1">Chrome ref: 95.5%</text>
+</svg>

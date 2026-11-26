@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="216" viewBox="0 0 820 216" role="img" aria-label="Zcorex Summary KPI Cards">
+  <rect width="820" height="216" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="820" height="58" rx="16" fill="#161b22"/>
+  <rect x="0" y="42" width="820" height="16" fill="#161b22"/>
+  <line x1="0" y1="58" x2="820" y2="58" stroke="#30363d" stroke-width="2"/>
+
+  <circle cx="32" cy="29" r="7.5" fill="#22c55e"/>
+  <text x="50" y="35" font-family="ui-sans-serif, -apple-system, sans-serif" font-size="18" font-weight="800" fill="#ffffff">ZCOREX · OVERVIEW &amp; GATES</text>
+
+  <rect x="430" y="13" width="210" height="32" rx="16" fill="#0f291e" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="535" y="34" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13.5" font-weight="800" fill="#4ade80">● ALL 5 GATES PASS</text>
+
+  <rect x="652" y="13" width="142" height="32" rx="16" fill="#1f242c" stroke="#475569" stroke-width="1.5"/>
+  <text x="723" y="34" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13.5" font-weight="700" fill="#e2e8f0">2026-11-26</text>
+
+  <!-- 3 Big Separate KPI Cards -->
+  <g transform="translate(26, 76)">
+    <rect x="0" y="0" width="244" height="118" rx="12" fill="#161b22" stroke="#ea580c" stroke-width="2"/>
+    <text x="16" y="29" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="800" fill="#fdba74">GLOBAL WPT · 265 SUITES</text>
+    <text x="16" y="76" font-family="ui-sans-serif, -apple-system, sans-serif" font-size="40" font-weight="900" fill="#fb923c">5.25%</text>
+    <text x="16" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="700" fill="#e2e8f0">120,924 / 2,302,238</text>
+
+    <rect x="262" y="0" width="244" height="118" rx="12" fill="#161b22" stroke="#0ea5e9" stroke-width="2"/>
+    <text x="278" y="29" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="800" fill="#7dd3fc">CORE (EX-ENCODING)</text>
+    <text x="278" y="76" font-family="ui-sans-serif, -apple-system, sans-serif" font-size="40" font-weight="900" fill="#38bdf8">17.87%</text>
+    <text x="278" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="700" fill="#e2e8f0">120,924 / 676,549</text>
+
+    <rect x="524" y="0" width="244" height="118" rx="12" fill="#161b22" stroke="#22c55e" stroke-width="2"/>
+    <text x="540" y="29" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="800" fill="#86efac">EVALUATED · 20 SETS</text>
+    <text x="540" y="76" font-family="ui-sans-serif, -apple-system, sans-serif" font-size="40" font-weight="900" fill="#4ade80">68.1%</text>
+    <text x="540" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="700" fill="#e2e8f0">120.9k / 177.5k sub</text>
+  </g>
+</svg>
